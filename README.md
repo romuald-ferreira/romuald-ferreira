@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Romuald Ferreira
 
-<!--
-**romuald-ferreira/romuald-ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Full Stack Developer — In Training
 
-Here are some ideas to get you started:
+I'm currently learning Web Full Stack Development and building my skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Web development fundamentals
+
+🎯 Goals
+
+My goal is to become a professional Full Stack Web Developer and build useful, clean and reliable web applications.
+
+📂 Projects
+
+This profile will gradually grow with projects created during my training and personal learning.
+
+---
+
+📍 France 🇫🇷
